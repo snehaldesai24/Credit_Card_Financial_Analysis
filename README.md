@@ -1,7 +1,6 @@
 # 📊 Credit Card Transaction & Customer Analysis
 
 ## 🔎 Project Overview
--
 This project analyzes credit card transactions and customer behavior using Power BI. The dashboard provides a 360° view of revenue, transactions, interest earned, and customer demographics to support data-driven business decisions.
 ---
 
